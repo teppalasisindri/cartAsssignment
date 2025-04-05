@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# React Shopping Cart with Free Gift 🎁
+
+## 📦 Setup
+
+1. Clone the repo or download files
+2. Run `npm install`
+3. Run `npm start`
+
+## 🔥 Features
+
+- Add/remove products to cart
+- Quantity selector
+- Progress bar towards free gift
+- Free gift auto-added when cart >= 1000
+- Gift auto-removed if subtotal drops below
+
+## ⚠️ Rules Followed
+
+- No AI used
+- No external libraries
+- No code copy/paste
+- Everything built and recorded from scratch
